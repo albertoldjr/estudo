@@ -18,4 +18,8 @@
 .lista-personagens{
     height: 480px;
 }
+
+.cartao .descricao .texto {
+    max-height: 200px;
+}
 }
