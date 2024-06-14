@@ -142,3 +142,42 @@ body {
 .cartao.fundo-6 {
     background: url('../imagens/fundo-6.jpg') no-repeat;
 }
+
+.image{
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    flex: auto;
+}
+
+.partes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.resenha{
+    width: 400px;
+    text-align:justify;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 15px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+.divisao{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+.text{
+    font-size: 15px;
+    font-weight: bold;
+}
