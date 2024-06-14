@@ -24,4 +24,11 @@
     max-width: 200px;
 }
 
+.image{
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    flex: auto;
+}
+
 }
